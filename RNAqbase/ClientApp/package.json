@@ -57,7 +57,7 @@
     "rxjs": "^6.0.0",
     "save": "^2.4.0",
     "save-svg-as-png": "^1.4.17",
-    "xlsx": "^0.16.7",
+    "xlsx": "^0.17.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
